@@ -11,6 +11,7 @@ public class Meeting {
         this.endTime = endTime;
     }
 
+    //I create getter and setter
     public LocalTime getStartTime() {
         return startTime;
     }
